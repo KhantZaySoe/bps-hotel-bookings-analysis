@@ -71,3 +71,13 @@ The project uses real hotel booking data with the following files:
 1. Clone the repository:
 ```bash
 git clone https://github.com/KhantZaySoe/bps-hotel-bookings-analysis.git
+```
+2.Navigate to the project folder:
+```bash
+cd bps-hotel-booking-analysis
+```
+3.Install required libraries:
+```bash
+pip install -r requirements.txt
+```
+
